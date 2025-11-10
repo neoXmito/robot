@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="completion_proposal_size">
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
+	</section>
+	<section name="PDOMSearchPage">
+		<item key="caseSensitive" value="false"/>
+		<item key="searchFlags" value="227191"/>
+		<list key="previousPatterns">
+			<item value="motorLeft_SetDuty"/>
+			<item value="groveLCD_setCursor"/>
+			<item value="VL53L0X_startContinuous"/>
+			<item value="captDistIR_Get"/>
+			<item value="main"/>
+		</list>
+	</section>
+</section>

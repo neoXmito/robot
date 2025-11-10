@@ -1,0 +1,7 @@
+../Core/Src/main.c:63:13:task_A	24	static
+../Core/Src/main.c:88:13:task_B	24	static
+../Core/Src/main.c:155:5:main	40	static
+../Core/Src/main.c:286:6:subscription_callback	24	static
+../Core/Src/main.c:295:6:microros_task	360	static
+../Core/Src/main.c:370:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:378:6:Error_Handler	4	static,ignoring_inline_asm
