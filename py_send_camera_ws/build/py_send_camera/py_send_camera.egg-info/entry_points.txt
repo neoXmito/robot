@@ -1,0 +1,2 @@
+[console_scripts]
+send_camera = py_send_camera.send_camera:main
