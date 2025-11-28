@@ -1,0 +1,24 @@
+[2.056s] Invoking command in '/home/mito/proj_robot/robot/py_send_camera_ws/src/py_send_camera': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mito/proj_robot/robot/py_send_camera_ws/build/py_send_camera/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mito/proj_robot/robot/py_send_camera_ws/install/py_send_camera/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_send_camera build --build-base /home/mito/proj_robot/robot/py_send_camera_ws/build/py_send_camera/build install --record /home/mito/proj_robot/robot/py_send_camera_ws/build/py_send_camera/install.log --single-version-externally-managed install_data
+[2.605s] running egg_info
+[2.630s] writing ../../build/py_send_camera/py_send_camera.egg-info/PKG-INFO
+[2.633s] writing dependency_links to ../../build/py_send_camera/py_send_camera.egg-info/dependency_links.txt
+[2.634s] writing entry points to ../../build/py_send_camera/py_send_camera.egg-info/entry_points.txt
+[2.635s] writing requirements to ../../build/py_send_camera/py_send_camera.egg-info/requires.txt
+[2.635s] writing top-level names to ../../build/py_send_camera/py_send_camera.egg-info/top_level.txt
+[2.697s] reading manifest file '../../build/py_send_camera/py_send_camera.egg-info/SOURCES.txt'
+[2.698s] writing manifest file '../../build/py_send_camera/py_send_camera.egg-info/SOURCES.txt'
+[2.698s] running build
+[2.698s] running build_py
+[2.698s] copying py_send_camera/send_camera.py -> /home/mito/proj_robot/robot/py_send_camera_ws/build/py_send_camera/build/lib/py_send_camera
+[2.700s] running install
+[2.713s] running install_lib
+[2.751s] copying /home/mito/proj_robot/robot/py_send_camera_ws/build/py_send_camera/build/lib/py_send_camera/send_camera.py -> /home/mito/proj_robot/robot/py_send_camera_ws/install/py_send_camera/lib/python3.12/site-packages/py_send_camera
+[2.752s] byte-compiling /home/mito/proj_robot/robot/py_send_camera_ws/install/py_send_camera/lib/python3.12/site-packages/py_send_camera/send_camera.py to send_camera.cpython-312.pyc
+[2.759s] running install_data
+[2.760s] running install_egg_info
+[2.797s] removing '/home/mito/proj_robot/robot/py_send_camera_ws/install/py_send_camera/lib/python3.12/site-packages/py_send_camera-0.0.0-py3.12.egg-info' (and everything under it)
+[2.798s] Copying ../../build/py_send_camera/py_send_camera.egg-info to /home/mito/proj_robot/robot/py_send_camera_ws/install/py_send_camera/lib/python3.12/site-packages/py_send_camera-0.0.0-py3.12.egg-info
+[2.799s] running install_scripts
+[3.057s] Installing send_camera script to /home/mito/proj_robot/robot/py_send_camera_ws/install/py_send_camera/lib/py_send_camera
+[3.058s] writing list of installed files to '/home/mito/proj_robot/robot/py_send_camera_ws/build/py_send_camera/install.log'
+[3.232s] Invoked command in '/home/mito/proj_robot/robot/py_send_camera_ws/src/py_send_camera' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mito/proj_robot/robot/py_send_camera_ws/build/py_send_camera/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mito/proj_robot/robot/py_send_camera_ws/install/py_send_camera/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_send_camera build --build-base /home/mito/proj_robot/robot/py_send_camera_ws/build/py_send_camera/build install --record /home/mito/proj_robot/robot/py_send_camera_ws/build/py_send_camera/install.log --single-version-externally-managed install_data
